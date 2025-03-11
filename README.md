@@ -9,9 +9,9 @@ I am doing the Unit 3/4 Software Development branch of Applied Computing, which 
 ### Projects
 
 ##### Current
-- None
+- 
 
 ##### Completed
-- None
+- 
 
 - - -
